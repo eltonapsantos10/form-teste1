@@ -8,11 +8,17 @@ export default function home() {
       method="post"
       data-netlify="true"
       onSubmit="submit"
+      data-netlify-honeypot="bot-field"
     >
 
       <input type="hidden" name="form-name" value="contact v1"
 
       />
+
+      <div hidden>
+        <input name="bot-field"/>
+
+      </div>
 
     <div>
       <label> First Name <br/>
