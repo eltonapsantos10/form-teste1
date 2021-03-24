@@ -8,6 +8,7 @@ export default function home() {
       method="post"
       data-netlify="true"
       onSubmit="submit"
+      action="/success/"
       data-netlify-honeypot="bot-field"
     >
 
