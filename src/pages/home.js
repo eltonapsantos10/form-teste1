@@ -15,11 +15,17 @@ export default function home() {
       />
 
     <div>
-      <label> First <br/>
+      <label> First Name <br/>
       <input type="text" name="first-name"/>
       </label>
     </div>
 
+
+    <div>
+      <label> Last Name <br/>
+      <input type="text" name="last-name"/>
+      </label>
+    </div>
 
     <div>
       <label htmlFor="email">Email</label> <br/>
