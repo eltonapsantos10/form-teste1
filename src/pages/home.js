@@ -65,7 +65,8 @@ export default function home() {
 
     </form>
 
-    <Link to="/">1</Link> <br />
+    <Link to="/home/">clique para voltar</Link> 
+    
 
   </div>
 
