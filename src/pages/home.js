@@ -63,6 +63,8 @@ export default function home() {
 
     </form>
 
+    <Link to="/">1</Link> <br />
+
   </div>
 
 
