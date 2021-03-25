@@ -60,15 +60,16 @@ export default function home() {
 
 
 
+      <Link to="/">1</Link> <br />
 
     </form>
 
-    <Link to="/">1</Link> <br />
+    
 
   </div>
 
 
-
+ 
 }
 
 
