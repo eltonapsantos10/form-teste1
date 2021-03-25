@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from "gatsby"
 
 export default function home() {
   return <div>
@@ -60,11 +61,11 @@ export default function home() {
 
 
 
-      <Link to="/">1</Link> <br />
+      
 
     </form>
 
-    
+    <Link to="/">1</Link> <br />
 
   </div>
 
