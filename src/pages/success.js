@@ -6,7 +6,7 @@ export default function home() {
 
     <p id="text-resposta">Informações enviadas! Assim que possível retornaremos.</p>
     <br></br>
-    <Link to="/home/">1</Link> <br />
+    <Link to="/">1</Link> <br />
 
   </div>
 
